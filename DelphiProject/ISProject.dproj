@@ -87,6 +87,7 @@
             <Form>Form1</Form>
             <FormType>dfm</FormType>
         </DCCReference>
+        <DCCReference Include="DAL\Interviewee.pas"/>
         <None Include="ModelSupport_ISProject\default.txaPackage"/>
         <BuildConfiguration Include="Release">
             <Key>Cfg_2</Key>
