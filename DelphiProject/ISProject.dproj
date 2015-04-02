@@ -87,6 +87,8 @@
             <Form>Form1</Form>
             <FormType>dfm</FormType>
         </DCCReference>
+        <DCCReference Include="DAL\Interviewee.pas"/>
+        <DCCReference Include="BusinessLayer\IntervieweeLogic.pas"/>
         <BuildConfiguration Include="Release">
             <Key>Cfg_2</Key>
             <CfgParent>Base</CfgParent>
