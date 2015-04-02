@@ -1,16 +1,2 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<BorlandProject>
-<<<<<<< .mine
-	<Transactions>
-    <Transaction>2015/04/01 09:22:55.000.040,=C:\Users\nhonht\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
-    <Transaction>2015/04/01 09:23:37.000.197,C:\Users\nhonht\Documents\Embarcadero\Studio\Projects\Unit1.dfm=D:\Projects\Delphi\Unit1.dfm</Transaction>
-    <Transaction>2015/04/01 09:23:37.000.197,C:\Users\nhonht\Documents\Embarcadero\Studio\Projects\Unit1.pas=D:\Projects\Delphi\Unit1.pas</Transaction>
-    <Transaction>2015/04/01 09:23:44.000.906,C:\Users\nhonht\Documents\Embarcadero\Studio\Projects\Project1.dproj=D:\Projects\Delphi\ISProject.dproj</Transaction>
-=======
-	<Transactions>
-    <Transaction>2015/04/01 09:23:37.000.197,D:\Projects\Delphi\Unit1.pas=C:\Users\nhonht\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
-    <Transaction>2015/04/01 09:23:37.000.197,D:\Projects\Delphi\Unit1.dfm=C:\Users\nhonht\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
-    <Transaction>2015/04/01 09:23:44.000.906,D:\Projects\Delphi\ISProject.dproj=C:\Users\nhonht\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
->>>>>>> .r4
-  </Transactions>
-</BorlandProject>
+<BorlandProject/>

@@ -7,8 +7,7 @@ program ISProject;
 uses
   Vcl.Forms,
   MainForm in 'MainForm.pas' {Form1},
-  Interviewee in 'DAL\Interviewee.pas',
-  IntervieweeLogic in 'BusinessLayer\IntervieweeLogic.pas';
+  Interviewee in 'DAL\Interviewee.pas';
 
 {$R *.res}
 

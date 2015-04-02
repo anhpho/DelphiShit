@@ -88,7 +88,7 @@
             <FormType>dfm</FormType>
         </DCCReference>
         <DCCReference Include="DAL\Interviewee.pas"/>
-        <DCCReference Include="BusinessLayer\IntervieweeLogic.pas"/>
+        <None Include="ModelSupport_ISProject\default.txaPackage"/>
         <BuildConfiguration Include="Release">
             <Key>Cfg_2</Key>
             <CfgParent>Base</CfgParent>
@@ -111,6 +111,12 @@
                 </Source>
             </Delphi.Personality>
             <Deployment>
+                <DeployFile LocalName="ModelSupport_ISProject\default.txaPackage" Configuration="Debug" Class="ProjectFile">
+                    <Platform Name="Win32">
+                        <RemoteDir>.\</RemoteDir>
+                        <Overwrite>true</Overwrite>
+                    </Platform>
+                </DeployFile>
                 <DeployFile LocalName="Win32\Debug\ISProject.exe" Configuration="Debug" Class="ProjectOutput">
                     <Platform Name="Win32">
                         <RemoteName>ISProject.exe</RemoteName>
@@ -452,6 +458,7 @@
                 <Platform value="Win32">True</Platform>
                 <Platform value="Win64">False</Platform>
             </Platforms>
+            <ModelSupport>True</ModelSupport>
         </BorlandProject>
         <ProjectFileVersion>12</ProjectFileVersion>
     </ProjectExtensions>
