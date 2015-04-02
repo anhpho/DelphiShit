@@ -6,8 +6,7 @@ program ISProject;
 
 uses
   Vcl.Forms,
-  MainForm in 'MainForm.pas' {Form1},
-  Interviewee in 'DAL\Interviewee.pas';
+  MainForm in 'MainForm.pas' {Form1};
 
 {$R *.res}
 
