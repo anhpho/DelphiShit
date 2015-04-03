@@ -1,6 +1,10 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <BorlandProject>
 	<Transactions>
-    <Transaction>2015/04/02 11:37:08.787,E:\IS\trunk\DelphiProject\BuzLayer\Unit2.pas=E:\IS\trunk\DelphiProject\Unit2.pas</Transaction>
+    <Transaction>2015/04/02 11:37:08.000.787,E:\IS\trunk\DelphiProject\BuzLayer\Unit2.pas=E:\IS\trunk\DelphiProject\Unit2.pas</Transaction>
+    <Transaction>2015/04/03 16:43:42.837,D:\Projects\DelphiShit\trunk\DelphiProject\Entities\Unit2.pas=D:\Projects\DelphiShit\trunk\DelphiProject\Unit2.pas</Transaction>
+    <Transaction>2015/04/03 16:49:04.242,D:\Projects\DelphiShit\trunk\DelphiProject\PL\Unit2.pas=D:\Projects\DelphiShit\trunk\DelphiProject\Unit2.pas</Transaction>
+    <Transaction>2015/04/03 16:49:04.242,D:\Projects\DelphiShit\trunk\DelphiProject\PL\Unit2.dfm=D:\Projects\DelphiShit\trunk\DelphiProject\Unit2.dfm</Transaction>
+    <Transaction>2015/04/03 16:49:56.526,D:\Projects\DelphiShit\trunk\DelphiProject\PL\IProject.PL.ImportForm.dfm=D:\Projects\DelphiShit\trunk\DelphiProject\PL\Unit2.dfm</Transaction>
   </Transactions>
 </BorlandProject>
